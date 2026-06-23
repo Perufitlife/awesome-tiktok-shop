@@ -15,6 +15,8 @@ Not affiliated with TikTok. Contributions welcome — open a PR.
 ## Understand your fees & payouts
 - [MyEcomSuite Payout Auditor](https://myecomsuite.com/auditor) — Free, 100%-local tool: drop your TikTok Shop settlement export and see exactly where every dollar went, with flags for charges that break TikTok's own fee rules. No upload, no signup.
 - [TikTok Shop Fee Calculator](https://myecomsuite.com/tiktok-shop-fee-calculator) — Free calculator for your real take-home per order (2026 rates).
+- [TikTok Shop Profit & Margin Calculator](https://myecomsuite.com/tiktok-shop-profit-calculator) — Free: enter price + product cost (COGS) to see net profit, margin %, and your break-even price after all fees.
+- [TikTok Shop Fee Dispute Generator](https://myecomsuite.com/tiktok-shop-fee-dispute) — Free: generate a ready-to-send dispute message for TikTok Seller Support when a fee breaks the rules (refund admin fee over the $5/SKU cap, etc.).
 
 ## Bookkeeping & reconciliation
 - [Link My Books](https://linkmybooks.com) — Paid. Automated bookkeeping with Xero/QuickBooks sync.
