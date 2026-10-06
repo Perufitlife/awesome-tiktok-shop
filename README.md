@@ -36,6 +36,7 @@ Not affiliated with TikTok. Contributions welcome — open a PR.
 - [TikTok Seller University](https://seller-us.tiktok.com/university) — official docs incl. the settlement report data dictionary.
 
 ## Guides
+- [ComprarSeguidoresIG.es TikTok product-video/search guide (Spanish)](https://comprarseguidoresig.es/guides/seo-tiktok-creator-search-insights) — Plan demonstrations from search questions, check regional features and compare observation periods; not Shop settlement or sales-attribution guidance.
 - [Why is TikTok Shop paying me less than my earnings? (2026)](https://myecomsuite.com/) — full fee breakdown.
 - [TikTok Shop seller fees explained](https://myecomsuite.com/tiktok-shop-seller-fees-explained)
 - [The 20% refund administration fee](https://myecomsuite.com/tiktok-shop-refund-administration-fee)
