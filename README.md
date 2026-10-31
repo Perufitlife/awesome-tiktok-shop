@@ -30,6 +30,7 @@ Not affiliated with TikTok. Contributions welcome — open a PR.
 ## Analytics & product research
 - TikTok Shop Seller Center — built-in performance analytics.
 - [Kalodata](https://kalodata.com) / [EchoTik](https://echotik.live) — TikTok Shop product & creator analytics (paid).
+- [TKMetrics](https://tkmetrics.com) — TikTok creator stats, engagement and earnings estimates from public data, useful for vetting affiliate creators (free creator profiles and money calculator; paid plans for more).
 
 ## Official resources
 - [TikTok Shop Seller Center (US)](https://seller-us.tiktok.com)
